@@ -1,0 +1,31 @@
+.navigation {
+    width: 110vw;
+    border: 4px; 
+     color: red;
+    background-color: bisque;
+    position: relative;
+    display: flex;
+    top: 0cm;
+    bottom: 0cm;
+    height: 30px;
+    justify-content: space-evenly;
+    border-radius: 4px;
+}
+a {
+    color: brown;
+    font-size: large;
+    font-style: italic;
+}
+h1 {
+    color: coral;
+    font-style: bold;
+    
+    
+}
+img {
+    width: 120px;
+    height: 140px;
+}
+h2{
+    color: brown;
+}
